@@ -224,11 +224,20 @@ neural-codegen/
 
 这是从"AI 创作"到"AI 编排"的范式转换。
 
-## 相关资源
+## 理论文档
 
-- [Lambda 演算与计算本质](./docs/lambda-calculus.md)
-- [为什么选择 S-表达式](./docs/why-sexpr.md)
-- [与 Lisp Machines 的历史渊源](./docs/history.md)
+本项目的理论基础来自一场深度对话，从"编程为什么要 Debug"出发，逐步深入到计算科学本质。
+
+| 文档 | 内容 |
+|------|------|
+| [00-origin.md](./docs/00-origin.md) | 起源：从 Debug 到 Neural Codegen |
+| [01-why-debug.md](./docs/01-why-debug.md) | 为什么编程需要 Debug |
+| [02-lambda-calculus.md](./docs/02-lambda-calculus.md) | Lambda 演算：计算的数学本质 |
+| [03-turing-vs-lambda.md](./docs/03-turing-vs-lambda.md) | 图灵机 vs Lambda：物理的选择 |
+| [04-gpu-mode.md](./docs/04-gpu-mode.md) | GPU 模式：AI 选择，不创作 |
+| [05-implementation.md](./docs/05-implementation.md) | 方案 B：工程实现 |
+| [06-extension.md](./docs/06-extension.md) | 如何扩展 DSL |
+| [07-2026-context.md](./docs/07-2026-context.md) | 2026 年的现实背景 |
 
 ## License
 
