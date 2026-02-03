@@ -238,6 +238,7 @@ The theoretical foundation of this project comes from an in-depth conversation, 
 | [05-implementation.md](./docs/05-implementation.md) | Plan B: Engineering implementation |
 | [06-extension.md](./docs/06-extension.md) | How to extend the DSL |
 | [07-2026-context.md](./docs/07-2026-context.md) | 2026 context: HBM shortage, AI workflows |
+| [08-parallelism-confluence.md](./docs/08-parallelism-confluence.md) | Parallelism & Confluence: Lessons from hardware Lambda |
 
 ## License
 

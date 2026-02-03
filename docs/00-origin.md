@@ -83,3 +83,4 @@ AI（LLM）的特点：
 | [04-gpu-mode.md](./04-gpu-mode.md) | GPU 模式的理论基础 |
 | [05-implementation.md](./05-implementation.md) | 方案 B 的工程实现 |
 | [06-extension.md](./06-extension.md) | 如何扩展 DSL |
+| [08-parallelism-confluence.md](./08-parallelism-confluence.md) | 并行性与合流性：硬件 Lambda 的启示 |
