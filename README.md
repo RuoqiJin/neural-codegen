@@ -239,6 +239,7 @@ The theoretical foundation of this project comes from an in-depth conversation, 
 | [06-extension.md](./docs/06-extension.md) | How to extend the DSL |
 | [07-2026-context.md](./docs/07-2026-context.md) | 2026 context: HBM shortage, AI workflows |
 | [08-parallelism-confluence.md](./docs/08-parallelism-confluence.md) | Parallelism & Confluence: Lessons from hardware Lambda |
+| [09-instruction-set-evolution.md](./docs/09-instruction-set-evolution.md) | Instruction Set Evolution: Growing a smarter DSL |
 
 ## License
 

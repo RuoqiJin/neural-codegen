@@ -84,3 +84,4 @@ AI（LLM）的特点：
 | [05-implementation.md](./05-implementation.md) | 方案 B 的工程实现 |
 | [06-extension.md](./06-extension.md) | 如何扩展 DSL |
 | [08-parallelism-confluence.md](./08-parallelism-confluence.md) | 并行性与合流性：硬件 Lambda 的启示 |
+| [09-instruction-set-evolution.md](./09-instruction-set-evolution.md) | 指令集演进：让 DSL 不断变聪明 |
