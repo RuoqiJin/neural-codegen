@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19372158.svg)](https://doi.org/10.5281/zenodo.19372158)
+
 # Neural Codegen
 
 **A deterministic harness for AI code generation. The LLM outputs S-expressions, a typed IR whitelist rejects hallucinations, and a template engine assembles guaranteed-compilable Rust. GPU-style: selection, not creation.**
