@@ -1,0 +1,6 @@
+[package]
+name = "nc-parser"
+version = "0.1.0"
+edition = "2021"
+description = "S-expression parser for Neural Codegen — minimal, zero-dependency"
+license = "MIT"

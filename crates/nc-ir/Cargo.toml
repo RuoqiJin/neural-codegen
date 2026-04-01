@@ -1,0 +1,9 @@
+[package]
+name = "nc-ir"
+version = "0.1.0"
+edition = "2021"
+description = "Typed Intermediate Representation for Neural Codegen — whitelist IR that constrains AI output"
+license = "MIT"
+
+[dependencies]
+nc-parser = { path = "../nc-parser" }
