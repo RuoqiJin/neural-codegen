@@ -214,8 +214,6 @@ These are the research frontier, not excuses. See [manifesto.md](./manifesto.md#
 
 I'm a 33-year-old video editor from China with no CS degree. No compute clusters, so I had to think differently. While big labs brute-force smarter models, I went back to 1936 to figure out how to mathematically constrain them.
 
-Looking for: O-1 visa, research collaborations, or roles solving AI hallucination at the compiler level.
-
 ## License
 
 MIT

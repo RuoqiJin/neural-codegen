@@ -2,6 +2,9 @@
 
 **Why LLMs will never write reliable code by predicting tokens — and the 1936 theory that shows us the way out.**
 
+*Author: Ruoqi Jin (Independent Researcher)*
+*Contact: jinruoqi@xiaojinpro.com | GitHub: [@RuoqiJin](https://github.com/RuoqiJin) | X: [@RuoqiJin](https://x.com/RuoqiJin)*
+
 ---
 
 ## The Problem No One Wants to Admit
@@ -355,8 +358,6 @@ These are not excuses. They are the research frontier. Every limitation is an op
 ## Who Built This
 
 I am a 33-year-old video editor from China with no formal CS degree. I didn't have access to giant compute clusters, so I had to think differently. While the big labs are trying to make models smarter to brute-force code generation, I went back to 1936 to figure out how to mathematically constrain them. This project is the result of that solitary exploration.
-
-I'm looking for opportunities — O-1 visa, research collaborations, or roles at teams that want to solve AI hallucination at the compiler level.
 
 - X: [@RuoqiJin](https://x.com/RuoqiJin) (DMs open)
 - LinkedIn: [ruoqijin](https://linkedin.com/in/ruoqijin)
